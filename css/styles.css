@@ -1,0 +1,49 @@
+.sel{
+    display:inline flex;
+}
+.selbutton{
+    margin-left: 2rem;
+    padding: 1rem 2rem;
+}
+.button1{
+    border-radius: 50%;
+    padding: 10px 15px;
+    background-color: lightgray;
+}
+.price{
+    font-size: 20px;
+    font-weight: bold;
+}
+.cart{
+    width: 180px;
+    background-color: black;
+    border: none;
+}
+.dash{
+    color: orange;
+    width: 180px;
+}
+.cardborder{
+    border: none;
+}
+.frees{
+    position: absolute;
+    right: 10px;
+    top: 10px;
+    color: white;
+    background-color: black;
+    font-size: 10px;
+}
+.button2{
+    background-color: lightgray;
+    color: black;
+}
+.or{
+    color: lightgrey;
+}
+.button3{
+    width: 150px;
+    background-color: white;
+    color: black;
+    margin-right: 3rem;
+}
